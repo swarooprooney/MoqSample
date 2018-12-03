@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqTest\bin\Debug\MoqTest.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqTest\bin\Debug\MoqTest.pdb
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqTest\obj\Debug\MoqTest.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqTest\obj\Debug\MoqTest.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqTest\obj\Debug\MoqTest.pdb
