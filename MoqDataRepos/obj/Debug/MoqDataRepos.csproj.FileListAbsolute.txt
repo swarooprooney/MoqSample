@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqDataRepos\bin\Debug\MoqDataRepos.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqDataRepos\bin\Debug\MoqDataRepos.pdb
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqDataRepos\bin\Debug\MoqDataModel.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqDataRepos\bin\Debug\MoqDataModel.pdb
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqDataRepos\obj\Debug\MoqDataRepos.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqDataRepos\obj\Debug\MoqDataRepos.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqDataRepos\obj\Debug\MoqDataRepos.pdb

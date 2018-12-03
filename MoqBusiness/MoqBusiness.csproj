@@ -40,6 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IRoosterService.cs" />
+    <Compile Include="IScoutPlayer.cs" />
+    <Compile Include="RoosterService.cs" />
     <Compile Include="ScoutPlayer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -47,6 +50,10 @@
     <ProjectReference Include="..\MoqDataModel\MoqDataModel.csproj">
       <Project>{2c9c2b02-19c5-44bb-acbe-9514dd591a2a}</Project>
       <Name>MoqDataModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MoqDataRepos\MoqDataRepos.csproj">
+      <Project>{5dce8c71-f37c-47b7-8890-971afe79d2ea}</Project>
+      <Name>MoqDataRepos</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

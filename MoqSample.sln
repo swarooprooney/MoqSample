@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqBusiness", "MoqBusiness\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqDataRepos", "MoqDataRepos\MoqDataRepos.csproj", "{5DCE8C71-F37C-47B7-8890-971AFE79D2EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqTest", "MoqTest\MoqTest.csproj", "{C6CF1628-8EB4-4A26-A130-ABAE40C28B44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5DCE8C71-F37C-47B7-8890-971AFE79D2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DCE8C71-F37C-47B7-8890-971AFE79D2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DCE8C71-F37C-47B7-8890-971AFE79D2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CF1628-8EB4-4A26-A130-ABAE40C28B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CF1628-8EB4-4A26-A130-ABAE40C28B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CF1628-8EB4-4A26-A130-ABAE40C28B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CF1628-8EB4-4A26-A130-ABAE40C28B44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

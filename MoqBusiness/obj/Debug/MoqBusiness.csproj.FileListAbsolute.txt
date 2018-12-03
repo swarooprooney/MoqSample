@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqBusiness\bin\Debug\MoqBusiness.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqBusiness\bin\Debug\MoqBusiness.pdb
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqBusiness\bin\Debug\MoqDataModel.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqBusiness\bin\Debug\MoqDataRepos.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqBusiness\bin\Debug\MoqDataModel.pdb
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqBusiness\bin\Debug\MoqDataRepos.pdb
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqBusiness\obj\Debug\MoqBusiness.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqBusiness\obj\Debug\MoqBusiness.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqBusiness\obj\Debug\MoqBusiness.pdb

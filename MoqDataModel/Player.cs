@@ -13,6 +13,6 @@ namespace MoqDataModel
 
 		public int Age { get; set; }
 
-		public Club Club { get; set; }
+		public Club PlayersClub { get; set; }
 	}
 }

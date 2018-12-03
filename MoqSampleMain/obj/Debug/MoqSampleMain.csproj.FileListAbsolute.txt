@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqSampleMain\bin\Debug\MoqSampleMain.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqSampleMain\bin\Debug\MoqSampleMain.exe
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqSampleMain\bin\Debug\MoqSampleMain.pdb
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqSampleMain\bin\Debug\MoqBusiness.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqSampleMain\bin\Debug\MoqDataModel.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqSampleMain\bin\Debug\MoqDataRepos.dll
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqSampleMain\bin\Debug\MoqBusiness.pdb
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqSampleMain\bin\Debug\MoqDataModel.pdb
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqSampleMain\bin\Debug\MoqDataRepos.pdb
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqSampleMain\obj\Debug\MoqSampleMain.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqSampleMain\obj\Debug\MoqSampleMain.exe
+c:\users\user\documents\visual studio 2017\Projects\MoqSample\MoqSampleMain\obj\Debug\MoqSampleMain.pdb

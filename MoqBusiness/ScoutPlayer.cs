@@ -7,11 +7,6 @@ using MoqDataModel;
 
 namespace MoqBusiness
 {
-
-	public interface IScoutPlayer
-	{
-		string GetPlayerDescription(Player player);
-	}
 	public class ScoutPlayer : IScoutPlayer
 	{
 		public string GetPlayerDescription(Player player)
